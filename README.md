@@ -1,2 +1,2 @@
-# discord-restapi
+# discord-rest-api
 IslandArea Discord Bot REST API
