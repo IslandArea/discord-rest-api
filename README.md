@@ -1,2 +1,2 @@
-# discord-rest-api
-IslandArea Discord Bot REST API
+# IslandArea Discord REST API
+#### Work in progress...
