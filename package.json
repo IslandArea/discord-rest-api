@@ -1,0 +1,29 @@
+{
+  "name": "discord-rest-api",
+  "version": "1.0.0",
+  "description": "IslandArea Discord Bot REST API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IslandArea/discord-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IslandArea/discord-rest-api/issues"
+  },
+  "homepage": "https://github.com/IslandArea/discord-rest-api#readme",
+  "dependencies": {
+    "deasync": "^0.1.21",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "rethinkdb": "^2.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
